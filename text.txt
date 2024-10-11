@@ -1,0 +1,11 @@
+1. Makhambetjanov Nurkhan 22B22B1529
+2. instructions for launching and playing the game:
+Open the game by downloading the pictures
+Use your mouse to click on the “Roll the Dice” button.
+The results will be displayed on the screen.
+After the roll, the computer will also roll the dice and the results will be compared.
+The game will report whether the player won or lost based on the amount of rolls.
+3. Additional features:
+Implemented the function of the computer rolling the dice with the player.
+Added a comparison mechanism to determine the winner after each roll.
+Included a message informing the player of his victory or defeat.
